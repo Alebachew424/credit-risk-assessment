@@ -309,7 +309,7 @@ Your Name
 
 GitHub: @AlebachewB
 
-Project Link: https://github.com/YOUR_USERNAME/credit-risk-assessment
+Project Link: https://github.com/alebachew424/credit-risk-assessment
 
 🙏 Acknowledgments
 Dataset provided by [Source]
