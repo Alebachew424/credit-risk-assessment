@@ -3,3 +3,7 @@ __pycache__/
 *.pyc 
 .vscode/ 
 .ipynb_checkpoints/ 
+
+# Docker
+*.log
+.DS_Store
